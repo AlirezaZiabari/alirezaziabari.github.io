@@ -14,7 +14,7 @@ I am broadly interested in developing adaptive NLP systems that can learn and re
 
 Publications 
 ======
-1. [Evaluating Large Language Models in Psychological Research: A Guide for Reviewers](https://osf.io/preprints/psyarxiv/ag7hy) Suhaib Abdurahman, **Alireza S. Ziabari**, Alexander Moore, Daniel Bartels, Morteza Dehghani. AMPPS.
+1. [A primer for evaluating large language models in social-science research](https://osf.io/preprints/psyarxiv/ag7hy) Suhaib Abdurahman, **Alireza S. Ziabari**, Alexander Moore, Daniel Bartels, Morteza Dehghani. AMPPS.
 1. [Cost-Efficient Subjective Task Annotation and Modeling through Few-Shot Annotator Adaptation](https://aclanthology.org/2024.findings-emnlp.199.pdf) Preni Golazizian, **Alireza S. Ziabari**, Ali Omrani, Morteza Dehghani. EMNLP 2024.
 1. [Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash](https://arxiv.org/pdf/2411.10422) Parsa Hejabi, Elnaz Rahmati, **Alireza S. Ziabari**, Preni Golazizian, Jesse Thomason, Morteza Dehghani. Wordplay at ACL 2024.
 1. [Reinforced Multiple Instance Selection for Speaker Attribute Prediction](https://aclanthology.org/2024.naacl-long.181.pdf) **Alireza S. Ziabari**, Ali Omrani, Parsa Hejabi, Preni Golazizian, Payam Piray, Morteza Dehghani. NAACL 2024.
@@ -28,7 +28,6 @@ Preprint
 1. [CoCo-CoLa: Evaluating Language Adherence in Multilingual LLMs](https://arxiv.org/pdf/2502.12476).
 1. [The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models](https://arxiv.org/pdf/2502.11266).
 1. [The Moral Foundations Reddit Corpus](https://arxiv.org/pdf/2208.05545.pdf).
-1. [Secret Keepers: The Impact of LLMs on Linguistic Markers of Personal Traits](https://arxiv.org/pdf/2404.00267).
 1. [What Doesn’t Kill Us: Harsh Ecologies Beget Difficulty-as-Improvement Norms](https://assets-eu.researchsquare.com/files/rs-4110737/v1_covered_c7ab1aaf-db4a-4048-b5f9-c81f152fece0.pdf?c=1714634992).
 
 Work Experiences
