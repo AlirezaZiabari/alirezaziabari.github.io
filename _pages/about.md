@@ -14,6 +14,7 @@ I am broadly interested in developing adaptive NLP systems that can learn and re
 
 Publications 
 ======
+1. [CoCo-CoLa: Evaluating Language Adherence in Multilingual LLMs](https://arxiv.org/pdf/2502.12476) Elnaz Rahmati *, **Alireza S. Ziabari** *, Dehghani, Morteza Dehghani. MRL at EMNLP 2025.
 1. [A primer for evaluating large language models in social-science research](https://osf.io/preprints/psyarxiv/ag7hy) Suhaib Abdurahman, **Alireza S. Ziabari**, Alexander Moore, Daniel Bartels, Morteza Dehghani. AMPPS.
 1. [Cost-Efficient Subjective Task Annotation and Modeling through Few-Shot Annotator Adaptation](https://aclanthology.org/2024.findings-emnlp.199.pdf) Preni Golazizian, **Alireza S. Ziabari**, Ali Omrani, Morteza Dehghani. EMNLP 2024.
 1. [Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash](https://arxiv.org/pdf/2411.10422) Parsa Hejabi, Elnaz Rahmati, **Alireza S. Ziabari**, Preni Golazizian, Jesse Thomason, Morteza Dehghani. Wordplay at ACL 2024.
@@ -25,7 +26,6 @@ Preprint
 ======
 1. [The Homogenizing Effect of Large Language Models on Human Expression and Thought](https://arxiv.org/pdf/2508.01491).
 1. [Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking](https://arxiv.org/pdf/2502.12470).
-1. [CoCo-CoLa: Evaluating Language Adherence in Multilingual LLMs](https://arxiv.org/pdf/2502.12476).
 1. [The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models](https://arxiv.org/pdf/2502.11266).
 1. [The Moral Foundations Reddit Corpus](https://arxiv.org/pdf/2208.05545.pdf).
 1. [What Doesn’t Kill Us: Harsh Ecologies Beget Difficulty-as-Improvement Norms](https://assets-eu.researchsquare.com/files/rs-4110737/v1_covered_c7ab1aaf-db4a-4048-b5f9-c81f152fece0.pdf?c=1714634992).
@@ -38,6 +38,13 @@ Work Experiences
 
 **Fanap**, Machine Learning Intern. *Jul 2020 - Oct 2020*
 
+Education
+------
+**University of Southern California**, 2021 - 2026
+
+**Sharif University of Technology**, 2016 - 2020
+
+
 Miscellaneous
 ------
-Soccer and Rock Climbing!
+Soccer (big fan of FC Barcelona) and Rock Climbing!
